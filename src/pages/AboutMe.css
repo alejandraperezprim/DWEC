@@ -1,0 +1,90 @@
+h4{
+  color:#f7cd4e;
+}
+
+h3{
+  color:rgb(32, 32, 32);
+}
+
+.about-me-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: left;
+}
+
+.about-me-photo {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 20px auto; 
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+  
+.about-me-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+  
+.about-me-content p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.about-me-skills {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.skill {
+  margin-bottom: 15px;
+}
+
+.progress {
+  background-color: #f3f3f3;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 20px;
+  background-color: #f7cd4e;
+  color: white;
+  text-align: center;
+  line-height: 20px;
+}
+
+.about-me-quote {
+  margin-top: 30px;
+  font-style: italic;
+  text-align: center;
+  color: #6c757d;
+}
+
+.about-me-quote span {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+
+.about-me-timeline {
+  margin-top: 60px;
+}
+
+.timeline {
+  list-style: none;
+  padding: 0;
+}
+
+.timeline li {
+  margin-bottom: 20px;
+}
+
+.timeline p {
+  margin: 5px 0 0;
+  color: #6c757d;
+}

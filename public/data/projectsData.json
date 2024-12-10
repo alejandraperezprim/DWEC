@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Ecoview",
+      "description": "Diseño interfaz para pantalla informativa.",
+      "image": "/assets/project1-thumbnail.jpg",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "link": "https://enlacealproyecto1.com"
+    },
+    {
+      "id": 2,
+      "title": "Whisper",
+      "description": "Diseño de software para altavoz inalámbrico.",
+      "image": "/assets/project2-thumbnail.jpg",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "link": "https://enlacealproyecto2.com"
+    },
+    {
+      "id": 3,
+      "title": "Faro",
+      "description": "Diseño aplicación para gestión de párking público.",
+      "image": "/assets/project3-thumbnail.jpg",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "link": "https://enlacealproyecto3.com"
+    },
+    {
+      "id": 4,
+      "title": "Focus",
+      "description": "Asesoramiento software para estacionamiento de carga inalámbrica.",
+      "image": "/assets/project4-thumbnail.jpg",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "link": "https://enlacealproyecto3.com"
+    },
+    {
+      "id": 5,
+      "title": "Astro",
+      "description": "Software para iluminaria.",
+      "image": "/assets/project5-thumbnail.jpg",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "link": "https://enlacealproyecto3.com"
+    },
+    {
+      "id": 6,
+      "title": "Chromatyka",
+      "description": "Plan empresa para startup dedicado al tratamiento de imagen",
+      "image": "/assets/project6-thumbnail.jpg",
+      "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "link": "https://enlacealproyecto3.com"
+    }
+  ]
+  
